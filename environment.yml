@@ -1,4 +1,4 @@
-name: pythonProject
+name: JetBrainsTestingTask
 channels:
   - defaults
 dependencies:
